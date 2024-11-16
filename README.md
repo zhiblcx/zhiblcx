@@ -8,7 +8,7 @@
 ## ✨我的技能
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,pinia,vite,sass,tailwind,nodejs,express,nestjs,postgres,prisma,nginx&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,zustand,vue,pinia,vite,sass,tailwind,nodejs,express,nestjs,postgres,prisma,nginx&theme=light&perline=10" />
 </p>
 
 ### 交个朋友 👬🏻
